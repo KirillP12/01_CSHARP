@@ -15,13 +15,13 @@ Console.WriteLine(sum3);
 int product1 = i1 * i2;
 long product2 = l1 * i1;
 double product3 = i1 * d1;
-Console.WriteLine(product1); 
-Console.WriteLine(product2); 
-Console.WriteLine(product3); 
+Console.Write(product1); 
+Console.Write(product2); 
+Console.Write(product3); 
 
 int qutient = i1 / i2;
-Console.WriteLine(qutient);
+Console.Write(qutient);
 
 d1 = 6;
 double qutient2 = i1 / d1;
-Console.WriteLine(qutient2);
+Console.Write(qutient2);
